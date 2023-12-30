@@ -1,4 +1,4 @@
-# Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind | Full Course 2023
+# Fullstack Notion Clone: Next.js 13, React, Convex, Tailwind 
 
 Key Features:
 
@@ -24,17 +24,7 @@ Key Features:
 
 **Node version 18.x.x**
 
-### Cloning the repository
 
-```shell
-git clone https://github.com/AntonioErdeljac/notion-clone-tutorial.git
-```
-
-### Install packages
-
-```shell
-npm i
-```
 
 ### Setup .env file
 
